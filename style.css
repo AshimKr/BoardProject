@@ -1,0 +1,42 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+#main{
+    background-color:rgb(236, 231, 231);
+    border: 1px solid rgb(172, 164, 164);
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.heading{
+    margin: 9px;
+}
+#para{
+    margin: 15px;
+}
+#content{
+    
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+    margin-top: 15px;
+    border: 1px solid rgb(211, 202, 202);
+}
+
+#info{
+    border: 1px solid rgb(204, 202, 197);
+    background-color: rgb(241, 230, 216);
+    height: 30px;
+    text-align:center;
+    margin: 5px;
+
+}
+
+#img{
+    border-radius: 1000px;
+}
+
+#facts{
+    margin: 10px;
+}
